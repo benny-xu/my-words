@@ -1,5 +1,14 @@
-# Benniar Daily
+# A NOOB
 
 grow with me.
 
-Holding hand.
+Being a Full Stack Accountant
+
+
+##联系方式
+
+email：xub2013@gmail.com
+
+wechat：ben-cpa
+
+github：benny-xu
