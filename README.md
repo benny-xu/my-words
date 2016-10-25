@@ -9,6 +9,6 @@ Being a Full Stack Accountant
 
 email：xub2013@gmail.com
 
-wechat：ben-cpa
-
 github：benny-xu
+
+wechat（Official Accounts）：ben-cpa
